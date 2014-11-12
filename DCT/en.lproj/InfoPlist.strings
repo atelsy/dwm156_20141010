@@ -1,0 +1,333 @@
+/* Localized versions of Info.plist keys */
+"IDS_SAVE_BIN_ERROR" = "Failed to save user data. Please make sure that you have rights to modify the folder where this execution file is.";
+//SMS
+"IDS_SMS_FOLDER0" = "Data Card";
+"IDS_SMS_FOLDER1" = "Inbox";
+"IDS_SMS_FOLDER2" = "Outbox";
+"IDS_SMS_FOLDER3" = "PC Folder";
+"IDS_SMS_FOLDER4" = "Inbox";
+"IDS_SMS_FOLDER5" = "Outbox";
+"IDS_SMS_FOLDER6" = "Sent Message";
+"IDS_SMS_FOLDER7" = "Draft";
+"IDS_SMS_FOLDER8" = "Personal Folder";
+"IDS_SMS_FOLDER9" = "Trash Can";
+"ID_SMS_NEW" = "new";
+"ID_SMS_REPLY" = "reply";
+"ID_SMS_FORWARD" = "forward";
+"ID_SMS_CUT" = "cut";
+"ID_SMS_COPY" = "copy";
+"ID_SMS_PASTE" = "paste";
+"ID_SMS_DELETE" = "delete";
+"ID_SMS_DOWNLOAD" = "download";
+"ID_SMS_Send_Successful" = "Send Successful!";
+
+"MSGBOX_CAPTION" = "Data Card Tool";
+"IDS_APP_OK" = "OK";
+"IDS_APP_FAIL" = "Failed";
+"IDS_APP_CANCEL" = "Cancel";
+"IDS_APP_PENDING" = "...";
+"IDS_ERROR_MOVEMESSAGE" = "Can't move the message(s) to the same folder!";
+"IDS_ERROR_NEWMESSAGE" = "Failed to create new message!";
+"IDS_ERROR_DELETEMESSAGE" = "Failed to delete message(s)!";
+"IDS_ERROR_WRITEMESSAGE" = "Failed to write message(s)!";
+"IDS_ERROR_SENDMESSAGE" = "Failed to send message(s)!";
+"IDS_ERROR_MOVEMESSAGE2" = "Failed to move message(s)!";
+"IDS_ERROR_SAVEMESSAGE" = "Failed to save the message!";
+"IDS_ERROR_NEWCONTACT" = "Failed to create new phonebook item!";
+"IDS_ERROR_UPDATEMESSAGE" = "Failed to update the message!";
+"IDS_ERROR_EDITMESSAGE" = "The message is too long (more than 10 SMS)!\r\nLast input may be lost!";
+"IDS_ERROR_CHOOSEFOLDER" = "Please choose one folder to save!";
+"IDS_ERROR_READMESSAGE" = "There is no available message or it's disconnected!";
+"IDS_ERROR_EMS_INVALIDDCS" = "Invalid DCS!";
+"IDS_ERROR_EMS_NOMEMORY" = "No memory or number of EMS object exceeds!";
+"IDS_ERROR_EMS_UNSPECIFIED" = "Unspecified Error!";
+"IDS_ERROR_EMSLIBRARY" = "Error: Failed to load EMS Library!";
+"IDS_SMS_FOLDER_TRASHDELETE" = "Are you sure to delete?";
+"IDS_SMS_MESSAGE_DELETE" = "Do you want to delete the message(s)?";
+"IDS_SMS_EDITOR_SAVE" = "Do you want to save the message?";
+"IDS_ERROR_RECIPIENTS" = "Invalid recipient(s)!";
+"IDS_SMS_DEL" = "Deleting Message(s)...";
+"IDS_SMS_COPY" = "Copying Message(s)...";
+"IDS_MAX_RECIPIENT_LENGTH" = "The maximum length of recipients is 601 characters!";
+"IDS_PCFOLDER_FULL" = "Exceed maximum storage of PC Folder, please delete some messages from trash can to continue.";
+"IDS_SMS_DEL_MEMORYFULL" = "There is no more room for new text messages,you can't receive new messages,please clear the messages in time!";
+"IDS_SMS_DEL_SUCCESS" = "Success!";
+"IDS_SMS_DEL_FAIL" = "Fail!";
+
+"IDS_SMS_MEMORYFULL" = "The SMS Storage is full.";
+"OK" = "OK";
+"CANCEL" = "Cancel";
+"ABORT" = "Abort";
+"RETRY" = "Retry";
+"IGNORE" = "Ignore";
+"YES" = "Yes";
+"NO" = "No";
+"SM" = "SM";
+"ME" = "ME";
+
+"IDR_MENU_TRASHCAN" = "Clean Trash Can";
+"PC" = "PC";
+"SIM" = "SIM";
+"SEARCH_CATEGORY_NUMBER" = "Number";
+"SEARCH_CATEGORY_MESSAGE" = "Message";
+"SEARCH_CATEGORY_NAME" = "Name";   
+
+//	dialup:
+"IDS_BTNTITLE_CONNECT" = "Connect";
+"IDS_BTNTITLE_CONNECTING" = "Connecting...";
+"IDS_BTNTITLE_DISCONNECT" = "Disconnect";
+"IDS_BTNTITLE_DISCONNECTING" = "Disconnecting...";
+
+//	statistics:
+"IDS_TABLETITLE_DOWNLOADED" = "Downloaded";
+"IDS_TABLETITLE_UPLOADED" = "Uploaded";
+"IDS_TABLETITLE_DATA" = "Data";
+"IDS_TABLETITLE_SPEED" = "Speed";
+"IDS_TABLETITLE_DURATION" = "Duration";
+"IDS_TABLETITLE_DAILY" = "Daily";
+"IDS_TABLETITLE_WEEKLY" = "Monthly";
+"IDS_TABLETITLE_YEARLY" = "Yearly";
+
+//	base setting window:
+"IDS_SETTING_WND_CAPTION" = "Settings";
+
+//	general settings:
+"IDS_TABTITLE_GENERAL" = "General";
+"IDS_LABEL_SIMLOCK" = "Sim lock:";
+"IDS_LABEL_CHANGEPIN" = "Change PIN:";
+"IDS_LABEL_CHANGEPIN2" = "Change PIN2:";
+"IDS_BTNTITLE_CHANGE" = "Change";
+"IDS_TITLE_UNLOCK" = "Unlock";
+"IDS_TITLE_LOCK" = "Lock";
+
+//	verify pwd dialog:
+"IDS_VERIFYPWD_WND_CAPTION" = "Certification";
+"IDS_INPUT_OLDPIN" = "Enter PIN:";
+"IDS_INPUT_OLDPIN2" = "Enter PIN2:";
+"IDS_INPUT_NEWPIN" = "New PIN:";
+"IDS_INPUT_NEWPIN2" = "New PIN2:";
+"IDS_INPUT_PUK" = "Enter PUK:";
+"IDS_INPUT_PUK2" = "Enter PUK2:";
+"IDS_INPUT_CONFIRM" = "Please confirm:";
+"IDS_PROMPT_REMAIN" = "Remaining trials:%d";
+"IDS_PROMPT_SUCCESS" = "Setting succeeded.";
+"IDS_ERROR_CHANGEPASSWORD" = "Failed to change password.";
+"IDS_TIPS_PWDWRONG" = "Password wrong!";
+"IDS_PSWMATCH_ERR" = "Passwords do not match!";
+
+//	dialup settings:
+"IDS_TABTITLE_DIALUP" = "Dialup";
+"IDS_LABEL_SERVICE" = "Service";
+"IDS_LABEL_SERVICENAME" = "Service Name:";
+"IDS_LABEL_TELEPHONENUM" = "Telephone Number:";
+"IDS_LABEL_ACCOUNTNAME" = "Account Name:";
+"IDS_LABEL_PASSWORD" = "Password:";
+"IDS_LABEL_STATIC" = "Static";
+"IDS_BTNTITLE_NEW" = "New";
+"IDS_BTNTITLE_EDIT" = "Edit";
+"IDS_BTNTITLE_DELETE" = "Delete";
+"IDS_BTNTITLE_SAVE" = "Save";
+"IDS_BTNTITLE_CANCEL" = "Cancel";
+
+"DIALUPSETTING_MSGBOX_CAPTION" = "Dialup Settings";
+"IDS_DIALUP_DELETE_CONFIRM" = "Are you sure to delete?";
+"IDS_DIALUP_SAVE_CONFIRM" = "Do you want to save changes?";
+"IDS_DIALUP_SERVNAME_EMPTY" = "Service name shouldn't be empty!";
+"IDS_DIALUP_SERVNAME_EXISTED" = "Service name already existed!";
+"IDS_DIALUP_SERVICE_UNCHANGABLE" = "Service still in use now!";
+
+//	network settings:
+"IDS_TABTITLE_INFORMATION" = "Information";
+"IDS_BOXTITLE_NETWORKTYPE" = "Network Type";
+"IDS_LABEL_NETWORKTYPE" = "Network Type:";
+"IDS_BOXTITLE_NETWORKINFO" = "Network Information";
+"IDS_LABEL_CURROPER" = "Current Operator:";
+"IDS_LABEL_CELLID" = "Cell ID:";
+
+"IDS_TABTITLE_REGISTRATION" = "Registration";
+"IDS_LABEL_AUTOSR" = "Auto search and register";
+"IDS_LABEL_MANUSR" = "Manual search and register";
+"IDS_TABLETITLE_NAME" = "name";
+"IDS_TABLETITLE_TYPE" = "type";
+"IDS_BTNTITLE_REFRESH" = "Search";
+"IDS_BTNTITLE_REGISTER" = "Register";
+
+"NETWORKSETTING_MSGBOX_CAPTION" = "Network Settings";
+"IDS_NETWORK_2G" = "2G Only";
+"IDS_NETWORK_3G" = "3G Only";
+"IDS_NETWORK_AUTO_NOPREF" = "Auto - no prefer";
+"IDS_NETWORK_AUTO_PREF2G" = "prefer 2G";
+"IDS_NETWORK_AUTO_PREF3G" = "prefer 3G";
+"IDS_PROMPT_CAPTION" = "Prompt";
+"IDS_PROMPT_WAITING" = "Please wait...";
+"IDS_PROMPT_TITLE_REFRESHINGOPER" = "Refreshing operator list";
+"IDS_CC_UNKNOWN_OPERATOR" = "Unknown operator";
+"IDS_CC_INVALID_REG_NETWORK" = "Invalid registration network!";
+
+
+// sms settings
+"IDS_BUTTON_BROWSER" = "Browser";
+"IDS_BUTTON_PLAY" = "Play";
+"IDS_BUTTON_STOP" = "Stop";
+
+//	data card tool exit
+"IDS_PROMPT_CAPTION_TOOL" = "Data Card Tool";
+"IDS_PROMPT_TOOLEXIT" = "Data Card Tool is exiting...";
+"IDS_DISCONN_BEFORE_EXIT" = "Please disconnect dial up before closing Data Card Tool.";
+"IDS_PROMPT_DISCONN" = "Disconnecting Dial up...";
+
+//callhistory
+"IDS_CH_FOLDER0" = "Missed Calls";
+"IDS_CH_FOLDER1" = "Received Calls";
+"IDS_CH_FOLDER2" = "Dialled Calls";
+"IDS_CH_MISSCALL" = "Missed call(s)";
+"IDS_CH_RECECALL" = "Received call(s)";
+"IDS_CH_DIALCALL" = "Dialled call(s)";
+"IDR_MENU_CH" = "Clean";
+"ID_CH_CALL" = "Call";
+"ID_CH_SENDMSG" = "Send message";
+"ID_CH_SAVENUM" = "Save";
+"ID_CH_DELETE" = "Delete";
+"ID_CH_DOWNLOAD" = "Download";
+"IDS_ERROR_READCALLHISTORY" = "Failed to read call history!";
+"IDS_CH_DELETE_MISSCALL" = "Do you want to delete the missed call(s)?";
+"IDS_CH_DELETE_RESVCALL" = "Do you want to delete the received call(s)?";
+"IDS_CH_DELETE_DIALCALL" = "Do you want to delete the dialled call(s)?";
+"IDS_MISSCALL_DEL" = "Deleting Missed Calls...";
+"IDS_RESVCALL_DEL" = "Deleting Received Calls...";
+"IDS_DIALCALL_DEL" = "Deleting Dialled Calls...";
+"IDS_SMS_SENDMESSAGE_FROMCH" = "Can't send message now!";
+"IDS_ERROR_DELETECALL" = "Failed to delete call record(s)!";
+"IDS_CH_DIALCALLFOLDER_CLEAN" = "Do you want to delete all of the dialled call(s)?";
+"IDS_CH_RESVCALLFOLDER_CLEAN" = "Do you want to delete all of the received call(s)?";
+"IDS_CH_MISSCALLFOLDER_CLEAN" = "Do you want to delete all of the missed call(s)?";
+"IDS_CH_UNKNOWN" = "[Unknown]";
+
+//phonebook
+"IDS_PB_NEWFOLDER" = "New Folder";
+"IDS_PB_RENAMEFOLDER" = "Rename";
+"IDS_PB_SENDMSG" = "Send Message";
+"IDS_PB_MOVEFOLDER" = "Do you want to move this folder to \"Trash Can\"?";
+"IDS_PB_FILE"="Import and export";
+"IDS_PBMEMORY_SIM" = "SIM";
+"IDS_PBMEMORY_PC" = "PC";
+"IDS_PB_NEW" = "New contact";
+"IDS_PB_CUT" = "Cut";
+"IDS_PB_COPY" = "Copy";
+"IDS_PB_PASTE" = "Paste";
+"IDS_PB_DELETE" = "Delete";
+"IDS_PB_DOWNLOAD" = "Download";
+"IDS_PB_FOLDER0" = "Data Card";
+"IDS_PB_FOLDER1" = "PC Folder";
+"IDS_PB_FOLDER2" = "Trash Can";
+"IDS_ERROR_READPHONEBOOK" = "Failed to read phonebook";
+"IDS_ERROR_MOVECONTACT"= "Can't move the contact(s) to the same folder!";
+"IDS_PB_DEL" = "Delete contact(s)...";
+"IDS_ERROR_PBFULL" = "The phonebook is full!";
+"IDS_ERROR_PBFULL_COPY" = "This is not enough space!\nOnly %d contact(s) will be copied!";
+"IDS_ERROR_PBFULL_MOVE" = "This is not enough space!\nOnly %d contact(s) will be moved!";
+"IDS_ERROR_PBNAME_MAX_SIM" = "The maximum length of contact name is %d English characters,\nor %d Chinese characters!\n\nEach of the following will be considered as 2 characters: \n\\ | [ ] { } ^ ~";
+"IDS_ERROR_PBNUMBER_MAX" = "The maximum length of mobile number is 40 characters!";
+"IDS_ERROR_PBNUMBER" = "Invalid mobile number format!";
+"IDS_ERROR_HOMENUMBER" = "Invalid home number format!";
+"IDS_ERROR_OFFICENUMBER" = "Invalid office number format!";
+"IDS_ERROR_FAXNUMBER" = "Invalid fax number format!";
+"IDS_ERROR_PBNAME" = "Please input name or number of the contact!";
+"IDS_ERROR_PBHOME_MAX" = "The maximum length of home number is 30 characters!";
+"IDS_ERROR_PBOFFICE_MAX" = "The maximum length of office number is 30 characters!";
+"IDS_ERROR_PBFAX_MAX" = "The maximum length of fax number is 30 characters!";
+"IDS_ERROR_PBCOMPANY_MAX" = "The maximum length of company name is 20 characters!";
+"IDS_ERROR_PBEMAIL_MAX" = "Email format is invalid or it's too long. The maximum length is 30!";
+"IDS_ERROR_PBBIRTHDAY_MAX" = "The input of birthday is not valid or its format is incorrect. The format is 2004/01/25!";
+"IDS_PB_NAME_INVALID_CHAR" = "The name can't contain any characters of '\\', '\"\"', '\;' or '\`'.";
+"IDS_PB_EDITOR_SAVE" = "Do you want to save the contact?";
+"IDS_ERROR_PBNAME_MAX_SIM_0x81" = "The maximum length of contact name is %d English characters,\n%d characters (if contains Thai, Russian and Latin),\nor %d Chinese characters!";
+"IDS_ERROR_PBNAME_MAX_ME_0x81" = "The maximum length of contact name is %d English characters,\n%d characters (if contains Thai, Russian and Latin),\nor %d Chinese characters!";
+"IDS_ERROR_PBNAME_MAX_SIM" = "The maximum length of contact name is %d English characters,\nor %d Chinese characters!\n\nEach of the following will be considered as 2 characters: \n\\ | [ ] { } ^ ~";
+"IDS_ERROR_PBNAME_MAX_ME" = "The maximum length of contact name is %d English characters,\nor %d Chinese characters!\n\nEach of the following will be considered as 2 characters: \n\\ | [ ] { } ^ ~";
+"IDS_PB_DELETE_PROMPT" = "Do you want to delete the contact(s)?";
+"IDS_ERROR_WRITECONTACT" = "Failed to write contact(s)";
+"IDS_ERROR_MOVECONTACT2" = "Failed to move contact(s)";
+"IDS_ERROR_PBNAME_MAX" = "The contact name '%@' exceeds maximum length!\nIt will be shortened to '%@' for mobile phone!";
+"IDS_PB_REDOWNLOAD" = "Phonebook is out of synchronization with Data Card.\n\nPlease download the phonebook first!";
+"IDS_ERROR_UPDATECONTACT" = "Failed to update the contact!";
+
+"IDS_SSI_CUG_CALL" = "CUG call";
+"IDS_SSI_CLIR_REJECTED" = "CLIR suppression rejected";
+"IDS_SSI_FORWARD_ON" = "Unconditional call forwarding is active";
+"IDS_SSI_FORWARD_PART_ON" = "Some of the conditional call forwardings are active";
+"IDS_SSI_CALL_WAITING" = "Waiting call is pending";
+"IDS_SSI_OUTGOING_BARRED" = "Outgoing calls barred";
+"IDS_SSI_INCOMING_BARRED" = "Incoming calls barred";
+"IDS_SSI_CALL_DEFLECTED" = "Call has been deflected";
+"IDS_SSI_CALL_FORWARDED" = "Call has been forwarded";
+
+"IDS_SSU_INCOMING_FORWARDED" = "Incoming call forwarded";
+"IDS_SSU_FORWARDED_CALL" = "Forwarded call";
+"IDS_SSU_CALL_HELD" = "Call has been put on hold";
+"IDS_SSU_CALL_RETRIEVED" = "Call has been retrieved";
+"IDS_SSU_MPTY_ENTERED" = "Multiparty call entered";
+"IDS_SSU_HELD_RELEASED" = "Call on holde has been released";
+"IDS_SSU_TRANSFER_ALERTING" = "Transferred call alerting";
+"IDS_SSU_TRANSFER_CONNECTED" = "Transferred call connected";
+"IDS_SSU_DEFLECTED_CALL" = "Deflected call";
+
+"IDS_TIPS_DIALING" = "Calling <%@>...";
+
+"IDS_CC_NUMUNASSIGN" = "Unassigned number";
+"IDS_CC_OPBARRED" = "Operator determined barring";
+"IDS_CC_NORMALCLEAR" = "Call(s) ended";
+"IDS_CC_USERBUSY" = "User busy";
+"IDS_CC_NORESPOND" = "No user responding";
+"IDS_CC_NOANSWER" = "No answer";
+"IDS_CC_REJECTED" = "Call rejected";
+"IDS_CC_NUMCHG" = "Number changed";
+"IDS_CC_BADFORMAT" = "Invalid number format";
+"IDS_CC_FACREJECT" = "Facility rejected";
+"IDS_CC_CALLLOST" = "Call(s) lost";
+"IDS_CC_FACNOTSUB" = "Requested facility not subscribed";
+"IDS_CC_FACINVALID" = "Requested facility not implemented";
+"IDS_CC_TERMINATED" = "Call(s) released";
+"IDS_CC_FAILURE" = "Unsuccessful";
+"IDS_CC_NETERR" = "Network error";
+"IDS_CC_DEFLECTED" = "Call deflected";
+"IDS_CC_TRANSFERRED" = "Call(s) transferred";
+"IDS_CC_BADSTRING" = "Invalid number";
+"IDS_CC_CALLFULL" = "Too many calls!";
+"IDS_CC_RESTRICTED" = "No permission to call this number!";
+"IDS_CC_NOTALLOWED" = "Not allowed now!";
+"IDS_CC_UNKNOWN_NUMBER" = "Unknown number";
+"IDS_CC_UNKNOWN_CONTACT" = "Unknown contact";
+
+"IDS_CC_CMD_SWITCH" = "Hold/activate";
+"IDS_CC_CMD_ANSWER" = "Answer call";
+"IDS_CC_CMD_JOIN" = "Join call";
+"IDS_CC_CMD_EXTRACT" = "Extract call";
+"IDS_CC_CMD_REPLACE" = "Replace call(s)";
+"IDS_CC_CMD_REJECT" = "Reject call";
+"IDS_CC_CMD_DEFLECT" = "Deflect call";
+"IDS_CC_CMD_TRANSFER" = "Transfer call(s)";
+"IDS_CC_CMD_RELEASE" = "Release call(s)";
+"IDS_CC_CMD_CALL" = "Call";
+
+"IDS_CC_SENDINGDTMF" = "Sending DTMF: <%@>...";
+"IDS_CC_DTMFCONFIRM" = "Click to send DTMF: <%@>";
+
+//	status bar:
+"IDS_STATUS_READY" = "Ready";
+"IDS_STATUS_NO_DEVICE" = "No device";
+"IDS_STATUS_MESSAGES" = "Message(s)";
+"IDS_STATUS_NOT_CONNECTED" = "Not connected";
+"IDS_STATUS_CONNECTING" = "Connecting...";
+"IDS_STATUS_PIN_REQ" = "PIN/PUK required";
+"IDS_STATUS_SEARCHING" = "Searching for operator...";
+"IDS_STATUS_NO_NET" = "No network";
+"IDS_STATUS_NO_SIM" = "No SIM";
+"IDS_STATUS_BAD_SIM" = "Bad SIM";
+"IDS_STATUS_USED" = "Used:";
+// USSD
+"IDS_USSD_TRASHDELETE"="Are you sure to delete?";
+
+
+
+

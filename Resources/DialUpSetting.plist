@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dayRx</key>
+	<string>486240</string>
+	<key>dayTx</key>
+	<string>317459</string>
+	<key>lastResetTime</key>
+	<string>1388733490</string>
+	<key>operator1</key>
+	<dict>
+		<key>apn</key>
+		<string>3gnet</string>
+		<key>number</key>
+		<string>*99#</string>
+		<key>passwd</key>
+		<string></string>
+		<key>servname</key>
+		<string>China Unicom</string>
+		<key>username</key>
+		<string></string>
+	</dict>
+	<key>weekRx</key>
+	<string>486240</string>
+	<key>weekTx</key>
+	<string>317459</string>
+	<key>yearRx</key>
+	<string>486240</string>
+	<key>yearTx</key>
+	<string>317459</string>
+</dict>
+</plist>

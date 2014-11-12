@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>1</key>
+    <string>英文称谓</string>
+
+
+    <key>2</key>
+    <string>名</string>
+
+
+    <key>3</key>
+    <string>中间名</string>
+
+
+    <key>4</key>
+    <string>姓</string>
+
+
+    <key>5</key>
+    <string>中文称谓</string>
+
+
+    <key>6</key>
+    <string>单位</string>
+
+
+    <key>7</key>
+    <string>部门</string>
+
+
+    <key>8</key>
+    <string>职务</string>
+
+
+    <key>9</key>
+    <string>商务地址 街道</string>
+
+
+    <key>10</key>
+    <string>商务地址 街道 2</string>
+
+
+    <key>11</key>
+    <string>商务地址 街道 3</string>
+
+
+    <key>12</key>
+    <string>商务地址 市/县</string>
+
+
+    <key>13</key>
+    <string>商务地址 省/市/自治区</string>
+
+
+    <key>14</key>
+    <string>商务地址 邮政编码</string>
+
+
+    <key>15</key>
+    <string>商务地址 国家/地区</string>
+
+
+    <key>16</key>
+    <string>住宅地址 街道</string>
+
+
+    <key>17</key>
+    <string>住宅地址 街道 2</string>
+
+
+    <key>18</key>
+    <string>住宅地址 街道 3</string>
+
+
+    <key>19</key>
+    <string>住宅地址 市/县</string>
+
+
+    <key>20</key>
+    <string>住宅地址 省/市/自治区</string>
+
+
+    <key>21</key>
+    <string>住宅地址 邮政编码</string>
+
+
+    <key>22</key>
+    <string>住宅地址 国家/地区</string>
+
+
+    <key>23</key>
+    <string>其他地址 街道</string>
+
+
+    <key>24</key>
+    <string>其他地址 街道 2</string>
+
+
+    <key>25</key>
+    <string>其他地址 街道 3</string>
+
+
+    <key>26</key>
+    <string>其他地址 市/县</string>
+
+
+    <key>27</key>
+    <string>其他地址 省/市/自治区</string>
+
+
+    <key>28</key>
+    <string>其他地址 邮政编码</string>
+
+
+    <key>29</key>
+    <string>其他地址 国家/地区</string>
+
+
+    <key>30</key>
+    <string>助理的电话</string>
+
+
+    <key>31</key>
+    <string>商务传真</string>
+
+
+    <key>32</key>
+    <string>商务电话</string>
+
+
+    <key>33</key>
+    <string>商务电话 2</string>
+
+
+    <key>34</key>
+    <string>回电话</string>
+
+
+    <key>35</key>
+    <string>车载电话</string>
+
+
+    <key>36</key>
+    <string>单位主要电话</string>
+
+
+    <key>37</key>
+    <string>住宅传真</string>
+
+
+    <key>38</key>
+    <string>住宅电话</string>
+
+
+    <key>39</key>
+    <string>住宅电话 2</string>
+
+
+    <key>40</key>
+    <string>ISDN</string>
+
+
+    <key>41</key>
+    <string>移动电话</string>
+
+
+    <key>42</key>
+    <string>其他传真</string>
+
+
+    <key>43</key>
+    <string>其他电话</string>
+
+
+    <key>44</key>
+    <string>寻呼机</string>
+
+
+    <key>45</key>
+    <string>主要电话</string>
+
+
+    <key>46</key>
+    <string>无绳电话</string>
+
+
+    <key>47</key>
+    <string>TTY/TDD 电话</string>
+
+
+    <key>48</key>
+    <string>电报</string>
+
+
+    <key>49</key>
+    <string>Internet 忙闲</string>
+
+
+    <key>50</key>
+    <string>办公地点</string>
+
+
+    <key>51</key>
+    <string>地点</string>
+
+
+    <key>52</key>
+    <string>电子邮件地址</string>
+
+
+    <key>53</key>
+    <string>电子邮件类型</string>
+
+
+    <key>54</key>
+    <string>电子邮件显示名称</string>
+
+
+    <key>55</key>
+    <string>电子邮件 2 地址</string>
+
+
+    <key>56</key>
+    <string>电子邮件 2 类型</string>
+
+
+    <key>57</key>
+    <string>电子邮件 2 显示名</string>
+
+
+    <key>58</key>
+    <string>电子邮件 3 地址</string>
+
+
+    <key>59</key>
+    <string>电子邮件 3 类型</string>
+
+
+    <key>60</key>
+    <string>电子邮件 3 显示名</string>
+
+
+    <key>61</key>
+    <string>附注</string>
+
+
+    <key>62</key>
+    <string>工作证号码</string>
+
+
+    <key>63</key>
+    <string>关键词</string>
+
+
+    <key>64</key>
+    <string>记帐信息</string>
+
+
+    <key>65</key>
+    <string>纪念日</string>
+
+
+    <key>66</key>
+    <string>经理姓名</string>
+
+
+    <key>67</key>
+    <string>类别</string>
+
+
+    <key>68</key>
+    <string>里程</string>
+
+
+    <key>69</key>
+    <string>敏感度</string>
+
+
+    <key>70</key>
+    <string>目录服务器</string>
+
+
+    <key>71</key>
+    <string>配偶</string>
+
+
+    <key>72</key>
+    <string>其他地址 - 邮箱</string>
+
+
+    <key>73</key>
+    <string>商务地址 - 邮箱</string>
+
+
+    <key>74</key>
+    <string>身份证编号</string>
+
+
+    <key>75</key>
+    <string>生日</string>
+
+
+    <key>76</key>
+    <string>私有</string>
+
+
+    <key>77</key>
+    <string>缩写</string>
+
+
+    <key>78</key>
+    <string>网页</string>
+
+
+    <key>79</key>
+    <string>性别</string>
+
+
+    <key>80</key>
+    <string>业余爱好</string>
+
+
+    <key>81</key>
+    <string>引用者</string>
+
+
+    <key>82</key>
+    <string>用户 1</string>
+
+
+    <key>83</key>
+    <string>用户 2</string>
+
+
+    <key>84</key>
+    <string>用户 3</string>
+
+
+    <key>85</key>
+    <string>用户 4</string>
+
+
+    <key>86</key>
+    <string>优先级</string>
+
+
+    <key>87</key>
+    <string>语言</string>
+
+
+    <key>88</key>
+    <string>帐户</string>
+
+
+    <key>89</key>
+    <string>职业</string>
+
+
+    <key>90</key>
+    <string>住宅地址 - 邮箱</string>
+
+
+    <key>91</key>
+    <string>助理的姓名</string>
+
+
+    <key>92</key>
+    <string>子女</string>
+
+  </dict>
+</plist>

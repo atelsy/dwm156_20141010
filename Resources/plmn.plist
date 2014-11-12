@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>46000</key>
+	<string>China Mobile</string>
+	<key>46002</key>
+	<string>China Mobile</string>
+	<key>46007</key>
+	<string>China Mobile</string>
+	<key>46001</key>
+	<string>China Unicom</string>
+	<key>46601</key>
+	<string>FarEasTone</string>
+	<key>46688</key>
+	<string>KG Telecom</string>
+	<key>46689</key>
+	<string>VIBO</string>
+	<key>46692</key>
+	<string>ChungHwa</string>
+	<key>46693</key>
+	<string>MobiTai</string>
+	<key>46697</key>
+	<string>Taiwan Mobile</string>
+	<key>46699</key>
+	<string>TransAsia</string>
+	<key>45400</key>
+	<string>CSL</string>
+	<key>45402</key>
+	<string>CSL</string>
+	<key>45418</key>
+	<string>CSL</string>
+	<key>45403</key>
+	<string>3 HK</string>
+	<key>45404</key>
+	<string>3 HK</string>
+	<key>45406</key>
+	<string>SmarToneVodafone</string>
+	<key>45410</key>
+	<string>New World</string>
+	<key>45412</key>
+	<string>CMCC</string>
+	<key>45415</key>
+	<string>SmarToneVodafone</string>
+	<key>45416</key>
+	<string>PCCW</string>
+	<key>45419</key>
+	<string>PCCW</string>
+	<key>45500</key>
+	<string>SmarToneVodafone</string>
+	<key>45501</key>
+	<string>CTM</string>
+	<key>45504</key>
+	<string>CTM</string>
+	<key>45503</key>
+	<string>3 Macau</string>
+	<key>45505</key>
+	<string>3 Macau</string>
+	<key>40401</key>
+	<string>Vodafone</string>
+	<key>40402</key>
+	<string>Airtel</string>
+	<key>40403</key>
+	<string>Airtel</string>
+	<key>40404</key>
+	<string>IDEA</string>
+	<key>40405</key>
+	<string>Vodafone</string>
+	<key>40407</key>
+	<string>IDEA</string>
+	<key>40410</key>
+	<string>Airtel</string>
+	<key>40411</key>
+	<string>Vodafone</string>
+	<key>40412</key>
+	<string>IDEA</string>
+	<key>40413</key>
+	<string>Vodafone</string>
+	<key>40414</key>
+	<string>Spice</string>
+	<key>40415</key>
+	<string>Vodafone</string>
+	<key>40417</key>
+	<string>Aircel</string>
+	<key>40418</key>
+	<string>Reliance</string>
+	<key>40419</key>
+	<string>IDEA</string>
+	<key>40420</key>
+	<string>Vodafone</string>
+	<key>40421</key>
+	<string>BPL MOBILE</string>
+	<key>40422</key>
+	<string>IDEA</string>
+	<key>40424</key>
+	<string>IDEA</string>
+	<key>40425</key>
+	<string>Aircel</string>
+	<key>40427</key>
+	<string>Vodafone</string>
+	<key>40428</key>
+	<string>Aircel</string>
+	<key>40429</key>
+	<string>Aircel</string>
+	<key>40431</key>
+	<string>AirTel</string>
+	<key>40433</key>
+	<string>Aircel</string>
+	<key>40434</key>
+	<string>CellOne</string>
+	<key>40435</key>
+	<string>Aircel</string>
+	<key>40437</key>
+	<string>Aircel</string>
+	<key>40438</key>
+	<string>CellOne</string>
+	<key>40440</key>
+	<string>Airtel</string>
+	<key>40441</key>
+	<string>Aircel</string>
+	<key>40442</key>
+	<string>Aircel</string>
+	<key>40443</key>
+	<string>Vodafone</string>
+	<key>40444</key>
+	<string>Spice</string>
+	<key>40445</key>
+	<string>Airtel</string>
+	<key>40446</key>
+	<string>Vodafone</string>
+	<key>40449</key>
+	<string>AirTel</string>
+	<key>40451</key>
+	<string>CellOne</string>
+	<key>40453</key>
+	<string>CellOne</string>
+	<key>40454</key>
+	<string>CellOne</string>
+	<key>40455</key>
+	<string>CellOne</string>
+	<key>40456</key>
+	<string>IDEA</string>
+	<key>40457</key>
+	<string>CellOne</string>
+	<key>40458</key>
+	<string>CellOne</string>
+	<key>40459</key>
+	<string>CellOne</string>
+	<key>40460</key>
+	<string>Vodafone</string>
+	<key>40462</key>
+	<string>CellOne</string>
+	<key>40464</key>
+	<string>CellOne</string>
+	<key>40466</key>
+	<string>CellOne</string>
+	<key>40468</key>
+	<string>Dolphin</string>
+	<key>40469</key>
+	<string>Dolphin</string>
+	<key>40470</key>
+	<string>Oasis</string>
+	<key>40471</key>
+	<string>CellOne</string>
+	<key>40472</key>
+	<string>CellOne</string>
+	<key>40473</key>
+	<string>CellOne</string>
+	<key>40474</key>
+	<string>CellOne</string>
+	<key>40475</key>
+	<string>CellOne</string>
+	<key>40476</key>
+	<string>CellOne</string>
+	<key>40477</key>
+	<string>CellOne</string>
+	<key>40478</key>
+	<string>IDEA</string>
+	<key>40479</key>
+	<string>CellOne</string>
+	<key>40480</key>
+	<string>CellOne</string>
+	<key>40481</key>
+	<string>CellOne</string>
+	<key>40482</key>
+	<string>IDEA</string>
+	<key>40484</key>
+	<string>Vodafone</string>
+	<key>40486</key>
+	<string>Vodafone</string>
+	<key>40487</key>
+	<string>IDEA</string>
+	<key>40488</key>
+	<string>Vodafone</string>
+	<key>40489</key>
+	<string>IDEA</string>
+	<key>40490</key>
+	<string>Airtel</string>
+	<key>40491</key>
+	<string>Aircel</string>
+	<key>40492</key>
+	<string>Airtel</string>
+	<key>40493</key>
+	<string>Airtel</string>
+	<key>40494</key>
+	<string>Airtel</string>
+	<key>40495</key>
+	<string>Airtel</string>
+	<key>40496</key>
+	<string>Airtel</string>
+	<key>40497</key>
+	<string>Airtel</string>
+	<key>40498</key>
+	<string>Airtel</string>
+	<key>404030</key>
+	<string>Vodafone</string>
+	<key>40501</key>
+	<string>Reliance</string>
+	<key>40505</key>
+	<string>Reliance</string>
+	<key>40506</key>
+	<string>Reliance</string>
+	<key>40507</key>
+	<string>Reliance</string>
+	<key>40509</key>
+	<string>Reliance</string>
+	<key>40510</key>
+	<string>Reliance</string>
+	<key>40511</key>
+	<string>Reliance</string>
+	<key>40513</key>
+	<string>Reliance</string>
+	<key>40515</key>
+	<string>Reliance</string>
+	<key>40518</key>
+	<string>Reliance</string>
+	<key>40519</key>
+	<string>Reliance</string>
+	<key>40520</key>
+	<string>Reliance</string>
+	<key>40521</key>
+	<string>Reliance</string>
+	<key>40522</key>
+	<string>Reliance</string>
+	<key>40551</key>
+	<string>Airtel</string>
+	<key>40552</key>
+	<string>Airtel</string>
+	<key>40553</key>
+	<string>Airtel</string>
+	<key>40554</key>
+	<string>Airtel</string>
+	<key>40555</key>
+	<string>Airtel</string>
+	<key>40556</key>
+	<string>Airtel</string>
+	<key>40566</key>
+	<string>Vodafone</string>
+	<key>40567</key>
+	<string>Vodafone</string>
+	<key>40570</key>
+	<string>IDEA</string>
+	<key>405025</key>
+	<string>IND TATA</string>
+	<key>405027</key>
+	<string>IND TATA</string>
+	<key>405029</key>
+	<string>IND TATA</string>
+	<key>405030</key>
+	<string>IND TATA</string>
+	<key>405031</key>
+	<string>IND TATA</string>
+	<key>405032</key>
+	<string>IND TATA</string>
+	<key>405034</key>
+	<string>IND TATA</string>
+	<key>405035</key>
+	<string>IND TATA</string>
+	<key>405036</key>
+	<string>IND TATA</string>
+	<key>405037</key>
+	<string>IND TATA</string>
+	<key>405038</key>
+	<string>IND TATA</string>
+	<key>405039</key>
+	<string>IND TATA</string>
+	<key>405041</key>
+	<string>IND TATA</string>
+	<key>405042</key>
+	<string>IND TATA</string>
+	<key>405043</key>
+	<string>IND TATA</string>
+	<key>405044</key>
+	<string>IND TATA</string>
+	<key>405045</key>
+	<string>IND TATA</string>
+	<key>405046</key>
+	<string>IND TATA</string>
+	<key>405047</key>
+	<string>IND TATA</string>
+	<key>405750</key>
+	<string>Vodafone</string>
+	<key>405751</key>
+	<string>Vodafone</string>
+	<key>405752</key>
+	<string>Vodafone</string>
+	<key>405753</key>
+	<string>Vodafone</string>
+	<key>405754</key>
+	<string>Vodafone</string>
+	<key>405755</key>
+	<string>Vodafone</string>
+	<key>405756</key>
+	<string>Vodafone</string>
+	<key>405799</key>
+	<string>IDEA</string>
+	<key>405800</key>
+	<string>Aircel</string>
+	<key>405801</key>
+	<string>Aircel</string>
+	<key>405803</key>
+	<string>Aircel</string>
+	<key>405805</key>
+	<string>Aircel</string>
+	<key>405809</key>
+	<string>Aircel</string>
+	<key>405810</key>
+	<string>Aircel</string>
+	<key>405811</key>
+	<string>Aircel</string>
+	<key>405852</key>
+	<string>IDEA</string>
+	<key>405913</key>
+	<string>Etisalat</string>
+	<key>41201</key>
+	<string>AWCC</string>
+	<key>41220</key>
+	<string>Roshan</string>
+	<key>41240</key>
+	<string>Areeba</string>
+	<key>41250</key>
+	<string>Etisalat Af</string>
+	<key>47001</key>
+	<string>GramenPhone</string>
+	<key>47002</key>
+	<string>AKTel</string>
+	<key>47003</key>
+	<string>Banglalink</string>
+	<key>47004</key>
+	<string>Teletalk</string>
+	<key>47007</key>
+	<string>Warid Telecom</string>
+	<key>42601</key>
+	<string>BATELCO</string>
+	<key>42602</key>
+	<string>zain BH</string>
+	<key>40211</key>
+	<string>B-Mobile</string>
+	<key>40277</key>
+	<string>TashiCell</string>
+	<key>52802</key>
+	<string>B-mobile</string>
+	<key>52811</key>
+	<string>DSTCom</string>
+	<key>45601</key>
+	<string>MOBITEL - KHM</string>
+	<key>45602</key>
+	<string>hello</string>
+	<key>45604</key>
+	<string>CADCOMMS</string>
+	<key>45605</key>
+	<string>STARCELL</string>
+	<key>45618</key>
+	<string>CAMSHIN</string>
+	<key>51402</key>
+	<string>TLS-TT</string>
+	<key>51001</key>
+	<string>INDOSAT</string>
+	<key>51008</key>
+	<string>axis</string>
+	<key>51010</key>
+	<string>Telkomsel</string>
+	<key>51011</key>
+	<string>XL</string>
+	<key>51021</key>
+	<string>INDOSAT</string>
+	<key>51089</key>
+	<string>3</string>
+	<key>43211</key>
+	<string>MCI</string>
+	<key>43214</key>
+	<string>KISH</string>
+	<key>43219</key>
+	<string>MTCE</string>
+	<key>43232</key>
+	<string>Taliya</string>
+	<key>43235</key>
+	<string>IranCell</string>
+	<key>41805</key>
+	<string>ASIACELL</string>
+	<key>41820</key>
+	<string>zain IQ</string>
+	<key>42501</key>
+	<string>ORANGE</string>
+	<key>42505</key>
+	<string>JAWWAL-PALESTINE/JAWWAL</string>
+	<key>42502</key>
+	<string>Cellcom</string>
+	<key>42503</key>
+	<string>Pelephone</string>
+	<key>44000</key>
+	<string>eMobile</string>
+	<key>44010</key>
+	<string>NTT DoCoMo</string>
+	<key>44020</key>
+	<string>Softbank</string>
+	<key>41601</key>
+	<string>zain JO</string>
+	<key>41603</key>
+	<string>Umniah</string>
+	<key>41677</key>
+	<string>Orange JO</string>
+	<key>45002</key>
+	<string>KTF</string>
+	<key>45008</key>
+	<string>KTF</string>
+	<key>45005</key>
+	<string>SK Telecom</string>
+	<key>41902</key>
+	<string>zain KW</string>
+	<key>41903</key>
+	<string>Wataniya</string>
+	<key>43701</key>
+	<string>BITEL</string>
+	<key>43705</key>
+	<string>MEGACOM</string>
+	<key>45701</key>
+	<string>LAO GSM</string>
+	<key>45702</key>
+	<string>ETL</string>
+	<key>45703</key>
+	<string>LAO-ASIA</string>
+	<key>45708</key>
+	<string>TANGO LAO</string>
+	<key>41501</key>
+	<string>Alfa</string>
+	<key>50212</key>
+	<string>MY MAXIS</string>
+	<key>50213</key>
+	<string>MY CELCOM 3G</string>
+	<key>50216</key>
+	<string>DiGi</string>
+	<key>50218</key>
+	<string>U MOBILE</string>
+	<key>50219</key>
+	<string>MY CELCOM</string>
+	<key>47201</key>
+	<string>Dhiraagu</string>
+	<key>47202</key>
+	<string>WMOBILE</string>
+	<key>42888</key>
+	<string>Unitel</string>
+	<key>42899</key>
+	<string>MobiCom</string>
+	<key>41401</key>
+	<string>MPT</string>
+	<key>42901</key>
+	<string>NTC</string>
+	<key>42902</key>
+	<string>Mero Mobile</string>
+	<key>42202</key>
+	<string>OMAN MOBILE</string>
+	<key>42203</key>
+	<string>nawras</string>
+	<key>41001</key>
+	<string>Mobilink</string>
+	<key>41003</key>
+	<string>PK-UFONE</string>
+	<key>41004</key>
+	<string>ZONG</string>
+	<key>41006</key>
+	<string>Telenor PK</string>
+	<key>41007</key>
+	<string>WaridTel</string>
+	<key>51501</key>
+	<string>ISLACOM</string>
+	<key>51502</key>
+	<string>Globe Telecom</string>
+	<key>51503</key>
+	<string>SMART</string>
+	<key>51505</key>
+	<string>Sun Cellular</string>
+	<key>51518</key>
+	<string>Red Mobile</string>
+	<key>42701</key>
+	<string>Qat-Qtel</string>
+	<key>42001</key>
+	<string>STC</string>
+	<key>42003</key>
+	<string>mobily</string>
+	<key>52501</key>
+	<string>SingTel</string>
+	<key>52502</key>
+	<string>SingTel</string>
+	<key>52503</key>
+	<string>M1</string>
+	<key>52505</key>
+	<string>SSTARHUB</string>
+	<key>41301</key>
+	<string>Mobitel</string>
+	<key>41302</key>
+	<string>SRI DIALOG</string>
+	<key>41303</key>
+	<string>SRI - Tigo</string>
+	<key>41305</key>
+	<string>SIR AIRTEL</string>
+	<key>41308</key>
+	<string>Hutch</string>
+	<key>41701</key>
+	<string>SyriaTel</string>
+	<key>41702</key>
+	<string>Areeba</string>
+	<key>43601</key>
+	<string>Somoncom</string>
+	<key>43602</key>
+	<string>INDIGO-T</string>
+	<key>43612</key>
+	<string>INDIGO-T</string>
+	<key>43603</key>
+	<string>MLT</string>
+	<key>43604</key>
+	<string>Babilon</string>
+	<key>43605</key>
+	<string>BEELINE</string>
+	<key>52001</key>
+	<string>AIS GSM</string>
+	<key>52010</key>
+	<string>TRUE</string>
+	<key>52099</key>
+	<string>TRUE</string>
+	<key>52015</key>
+	<string>TOT</string>
+	<key>52018</key>
+	<string>DTAC</string>
+	<key>52023</key>
+	<string>TH GSM 1800</string>
+	<key>28601</key>
+	<string>Turkcell</string>
+	<key>28602</key>
+	<string>VODAFONE TR</string>
+	<key>28603</key>
+	<string>AVEA</string>
+	<key>42402</key>
+	<string>ETISALAT</string>
+	<key>42403</key>
+	<string>du</string>
+	<key>45201</key>
+	<string>Mobifone</string>
+	<key>45202</key>
+	<string>VINAPHONE</string>
+	<key>45204</key>
+	<string>Viettel</string>
+	<key>42101</key>
+	<string>SabaFon</string>
+	<key>42102</key>
+	<string>MTN</string>
+	<key>27601</key>
+	<string>AMC - AL</string>
+	<key>27602</key>
+	<string>vodafone AL</string>
+	<key>27603</key>
+	<string>EAGLE AL</string>
+	<key>21303</key>
+	<string>MOBILAND</string>
+	<key>28301</key>
+	<string>Beeline AM</string>
+	<key>28305</key>
+	<string>ARM MTS</string>
+	<key>23201</key>
+	<string>A1</string>
+	<key>23203</key>
+	<string>T-Mobile A</string>
+	<key>23205</key>
+	<string>Orange AT</string>
+	<key>23207</key>
+	<string>telering</string>
+	<key>23210</key>
+	<string>3 AT</string>
+	<key>23212</key>
+	<string>Orange AT</string>
+	<key>40001</key>
+	<string>AZE ACELL</string>
+	<key>40002</key>
+	<string>AZE BKCELL</string>
+	<key>40004</key>
+	<string>Nar</string>
+	<key>25701</key>
+	<string>Velcom</string>
+	<key>25702</key>
+	<string>MTS</string>
+	<key>25704</key>
+	<string>Best</string>
+	<key>20601</key>
+	<string>Proximus</string>
+	<key>20610</key>
+	<string>Mobistar</string>
+	<key>20620</key>
+	<string>BASE</string>
+	<key>21803</key>
+	<string>Eronet</string>
+	<key>21805</key>
+	<string>m:tel</string>
+	<key>21890</key>
+	<string>BH Mobile</string>
+	<key>28401</key>
+	<string>M-Tel BG</string>
+	<key>28403</key>
+	<string>vivatel</string>
+	<key>28405</key>
+	<string>BG GLOBUL</string>
+	<key>21901</key>
+	<string>T-Mobile</string>
+	<key>21902</key>
+	<string>Tele2</string>
+	<key>21910</key>
+	<string>VIPnet</string>
+	<key>28001</key>
+	<string>CYTAVODA</string>
+	<key>28010</key>
+	<string>Areeba</string>
+	<key>23001</key>
+	<string>T-Mobile CZ</string>
+	<key>23002</key>
+	<string>O2 CZ</string>
+	<key>23003</key>
+	<string>Vodafone CZ</string>
+	<key>23801</key>
+	<string>TDC MOBIL</string>
+	<key>23802</key>
+	<string>Sonofon</string>
+	<key>23806</key>
+	<string>3 DK</string>
+	<key>23820</key>
+	<string>TELIA DK</string>
+	<key>23877</key>
+	<string>Sonofon</string>
+	<key>24801</key>
+	<string>EE EMT</string>
+	<key>24802</key>
+	<string>EE elisa</string>
+	<key>24803</key>
+	<string>TELE2</string>
+	<key>28801</key>
+	<string>Føroya Tele</string>
+	<key>28802</key>
+	<string>KALL</string>
+	<key>24403</key>
+	<string>DNA</string>
+	<key>24412</key>
+	<string>DNA</string>
+	<key>24405</key>
+	<string>FI Elisa</string>
+	<key>24414</key>
+	<string>FI AMT</string>
+	<key>24491</key>
+	<string>FI SONERA</string>
+	<key>20801</key>
+	<string>Orange F</string>
+	<key>20810</key>
+	<string>SFR FR</string>
+	<key>20820</key>
+	<string>Bouygues FR</string>
+	<key>28201</key>
+	<string>GCELL</string>
+	<key>28202</key>
+	<string>MAGTI</string>
+	<key>28204</key>
+	<string>BEELINE</string>
+	<key>26201</key>
+	<string>T-Mobile D</string>
+	<key>26202</key>
+	<string>Vodafone.de</string>
+	<key>26203</key>
+	<string>E-Plus</string>
+	<key>26207</key>
+	<string>O2-de</string>
+	<key>26208</key>
+	<string>O2-de</string>
+	<key>26601</key>
+	<string>GIBTEL</string>
+	<key>20201</key>
+	<string>COSMOTE GR</string>
+	<key>20205</key>
+	<string>vodafone GR</string>
+	<key>20210</key>
+	<string>WIND GR</string>
+	<key>29001</key>
+	<string>TELE GRL</string>
+	<key>21601</key>
+	<string>H pannon</string>
+	<key>21630</key>
+	<string>T-Mobile H</string>
+	<key>21670</key>
+	<string>vodafone HU</string>
+	<key>27401</key>
+	<string>Siminn</string>
+	<key>27402</key>
+	<string>Vodafone</string>
+	<key>27404</key>
+	<string>Viking</string>
+	<key>27407</key>
+	<string>IceCell</string>
+	<key>27408</key>
+	<string>On-waves</string>
+	<key>27411</key>
+	<string>NOVA</string>
+	<key>27201</key>
+	<string>vodafone IRL</string>
+	<key>27202</key>
+	<string>O2 IRL</string>
+	<key>27203</key>
+	<string>METEOR IRL</string>
+	<key>27205</key>
+	<string>3 IRL</string>
+	<key>22201</key>
+	<string>TIM IT</string>
+	<key>22210</key>
+	<string>vodafone IT</string>
+	<key>22288</key>
+	<string>WIND IT</string>
+	<key>22299</key>
+	<string>3 IT</string>
+	<key>40101</key>
+	<string>Beeline KZ</string>
+	<key>40102</key>
+	<string>KCELL KZ</string>
+	<key>40177</key>
+	<string>NEO KZ</string>
+	<key>24701</key>
+	<string>LMT LV</string>
+	<key>24702</key>
+	<string>TELE2 LV</string>
+	<key>24705</key>
+	<string>BITE LV</string>
+	<key>29501</key>
+	<string>SwisscomFL</string>
+	<key>29502</key>
+	<string>Orange FL</string>
+	<key>29505</key>
+	<string>FL1</string>
+	<key>29577</key>
+	<string>LI TANGO</string>
+	<key>24601</key>
+	<string>OMNITEL LT</string>
+	<key>24602</key>
+	<string>LT BITE GSM</string>
+	<key>24603</key>
+	<string>TELE2</string>
+	<key>27001</key>
+	<string>L LUXGSM</string>
+	<key>27077</key>
+	<string>L TANGO</string>
+	<key>27099</key>
+	<string>L Orange-LU/Orange</string>
+	<key>29401</key>
+	<string>T-Mobile MK</string>
+	<key>29402</key>
+	<string>COSMOFON MKD</string>
+	<key>29403</key>
+	<string>Vip MKD</string>
+	<key>27801</key>
+	<string>vodafone MT</string>
+	<key>27821</key>
+	<string>go mobile</string>
+	<key>27877</key>
+	<string>3GT MT</string>
+	<key>25901</key>
+	<string>Orange MD</string>
+	<key>25902</key>
+	<string>MOLDCELL MD</string>
+	<key>25904</key>
+	<string>EVENTIS MD</string>
+	<key>20404</key>
+	<string>Vodafone NL</string>
+	<key>20408</key>
+	<string>KPN NL</string>
+	<key>20412</key>
+	<string>Telfort NL</string>
+	<key>20416</key>
+	<string>T-Mobile NL</string>
+	<key>20420</key>
+	<string>Orange NL</string>
+	<key>24201</key>
+	<string>N Telenor</string>
+	<key>24202</key>
+	<string>N NetCom</string>
+	<key>24203</key>
+	<string>MTU</string>
+	<key>24205</key>
+	<string>Mobile Norway</string>
+	<key>26001</key>
+	<string>Plus</string>
+	<key>26002</key>
+	<string>Era</string>
+	<key>26003</key>
+	<string>Orange PL</string>
+	<key>26006</key>
+	<string>Play</string>
+	<key>26801</key>
+	<string>vodafone P</string>
+	<key>26803</key>
+	<string>Optimus P</string>
+	<key>26806</key>
+	<string>TMN P</string>
+	<key>22601</key>
+	<string>RO Vodafone</string>
+	<key>22603</key>
+	<string>RO COSMOTE</string>
+	<key>22605</key>
+	<string>RO DigiMobil</string>
+	<key>22610</key>
+	<string>RO ORANGE</string>
+	<key>25001</key>
+	<string>MTS RUS</string>
+	<key>25002</key>
+	<string>MegaFon RUS</string>
+	<key>25004</key>
+	<string>SCN RUS</string>
+	<key>25005</key>
+	<string>STC RUS</string>
+	<key>25007</key>
+	<string>BMT RUS</string>
+	<key>25010</key>
+	<string>DTC RUS</string>
+	<key>25012</key>
+	<string>AKOS RUS</string>
+	<key>25013</key>
+	<string>Kuban RUS</string>
+	<key>25015</key>
+	<string>SMARTS RUS</string>
+	<key>25016</key>
+	<string>NTC RUS</string>
+	<key>25017</key>
+	<string>Utel RUS</string>
+	<key>25019</key>
+	<string>INDIGO RUS</string>
+	<key>25020</key>
+	<string>TELE2 RUS</string>
+	<key>25028</key>
+	<string>Beeline RUS</string>
+	<key>25035</key>
+	<string>MOTIV RUS</string>
+	<key>25039</key>
+	<string>Utel RUS</string>
+	<key>25099</key>
+	<string>Beeline RUS</string>
+	<key>22001</key>
+	<string>Telenor</string>
+	<key>22002</key>
+	<string>ProMonte</string>
+	<key>22003</key>
+	<string>mt:s</string>
+	<key>22004</key>
+	<string>T-Mobile CG</string>
+	<key>22005</key>
+	<string>VIP Mobile</string>
+	<key>23101</key>
+	<string>Orange SK</string>
+	<key>23102</key>
+	<string>T-Mobile SK</string>
+	<key>23106</key>
+	<string>O2 SK</string>
+	<key>29340</key>
+	<string>Si.mobil</string>
+	<key>29341</key>
+	<string>Mobitel</string>
+	<key>29364</key>
+	<string>T-2</string>
+	<key>29370</key>
+	<string>Tušmobil</string>
+	<key>21401</key>
+	<string>vodafone ES</string>
+	<key>21403</key>
+	<string>Orange</string>
+	<key>21404</key>
+	<string>Yoigo</string>
+	<key>21407</key>
+	<string>movistar</string>
+	<key>24001</key>
+	<string>TELIA SE</string>
+	<key>24002</key>
+	<string>3 SE</string>
+	<key>24004</key>
+	<string>Sweden</string>
+	<key>24005</key>
+	<string>Sweden 3G</string>
+	<key>24007</key>
+	<string>COMVIQ SE</string>
+	<key>24008</key>
+	<string>Telenor SE</string>
+	<key>24010</key>
+	<string>SpringMobil SE</string>
+	<key>22801</key>
+	<string>Swisscom</string>
+	<key>22802</key>
+	<string>Sunrise</string>
+	<key>22803</key>
+	<string>ORANGE</string>
+	<key>22807</key>
+	<string>In&amp;Phone</string>
+	<key>22808</key>
+	<string>Tele2</string>
+	<key>25501</key>
+	<string>UMC</string>
+	<key>25502</key>
+	<string>Beeline</string>
+	<key>25503</key>
+	<string>Kyivstar</string>
+	<key>25505</key>
+	<string>Uni</string>
+	<key>25506</key>
+	<string>life:)</string>
+	<key>25507</key>
+	<string>Utel</string>
+	<key>23401</key>
+	<string>UK01</string>
+	<key>23410</key>
+	<string>O2 UK</string>
+	<key>23415</key>
+	<string>Vodafone UK</string>
+	<key>23420</key>
+	<string>3 UK</string>
+	<key>23430</key>
+	<string>T-Mobile UK</string>
+	<key>23431</key>
+	<string>T-Mobile UK</string>
+	<key>23432</key>
+	<string>T-Mobile UK</string>
+	<key>23433</key>
+	<string>Orange</string>
+	<key>43404</key>
+	<string>Beeline UZ</string>
+	<key>43405</key>
+	<string>UZB Ucell</string>
+	<key>43407</key>
+	<string>UZB MTS</string>
+	<key>43801</key>
+	<string>MTS TM</string>
+	<key>344030</key>
+	<string>APUA</string>
+	<key>344920</key>
+	<string>bMobile</string>
+	<key>344930</key>
+	<string>Digicel</string>
+	<key>72207</key>
+	<string>Movistar</string>
+	<key>72234</key>
+	<string>Personal</string>
+	<key>722310</key>
+	<string>CLARO</string>
+	<key>36301</key>
+	<string>SETAR GSM</string>
+	<key>70267</key>
+	<string>BTL</string>
+	<key>35001</key>
+	<string>Digicel</string>
+	<key>35002</key>
+	<string>M3</string>
+	<key>73601</key>
+	<string>VIVA</string>
+	<key>73602</key>
+	<string>EMOVIL</string>
+	<key>73603</key>
+	<string>Telecel</string>
+	<key>72402</key>
+	<string>TIM BRASIL</string>
+	<key>72403</key>
+	<string>TIM BRASIL</string>
+	<key>72404</key>
+	<string>TIM BRASIL</string>
+	<key>72405</key>
+	<string>Claro</string>
+	<key>72406</key>
+	<string>VIVO</string>
+	<key>72410</key>
+	<string>VIVO</string>
+	<key>72411</key>
+	<string>VIVO</string>
+	<key>72423</key>
+	<string>VIVO</string>
+	<key>72415</key>
+	<string>Sercomtel</string>
+	<key>72416</key>
+	<string>Brasil Telecom</string>
+	<key>72424</key>
+	<string>AMAZONIA</string>
+	<key>72431</key>
+	<string>Oi</string>
+	<key>72432</key>
+	<string>CTBC</string>
+	<key>72433</key>
+	<string>CTBC</string>
+	<key>72434</key>
+	<string>CTBC</string>
+	<key>302350</key>
+	<string>FIRST</string>
+	<key>302370</key>
+	<string>Fido</string>
+	<key>302380</key>
+	<string>DMTS</string>
+	<key>302720</key>
+	<string>ROGERS</string>
+	<key>73001</key>
+	<string>ENTEL</string>
+	<key>73002</key>
+	<string>movistar</string>
+	<key>73003</key>
+	<string>CLARO CHL</string>
+	<key>732101</key>
+	<string>movistar</string>
+	<key>732103</key>
+	<string>TIGO</string>
+	<key>732123</key>
+	<string>Comcel</string>
+	<key>71201</key>
+	<string>I.C.E.</string>
+	<key>36801</key>
+	<string>Cubacel</string>
+	<key>37001</key>
+	<string>orange</string>
+	<key>37002</key>
+	<string>CLARO DOM</string>
+	<key>74000</key>
+	<string>movistar</string>
+	<key>74001</key>
+	<string>PORTA GSM</string>
+	<key>70601</key>
+	<string>CLARO SLV</string>
+	<key>70602</key>
+	<string>Digicel</string>
+	<key>70603</key>
+	<string>TELEMOVIL</string>
+	<key>708001</key>
+	<string>CLARO HND</string>
+	<key>70802</key>
+	<string>CELTELHND</string>
+	<key>338050</key>
+	<string>Digicel</string>
+	<key>338180</key>
+	<string>bmobile</string>
+	<key>34001</key>
+	<string>F-Orange</string>
+	<key>34002</key>
+	<string>ONLY</string>
+	<key>34020</key>
+	<string>DIGICEL</string>
+	<key>334020</key>
+	<string>TELCEL</string>
+	<key>33403</key>
+	<string>movistar</string>
+	<key>352030</key>
+	<string>Digicel</string>
+	<key>352110</key>
+	<string>bmobile</string>
+	<key>70401</key>
+	<string>ClaroGTM</string>
+	<key>70402</key>
+	<string>Tigo</string>
+	<key>70403</key>
+	<string>movistar</string>
+	<key>73801</key>
+	<string>DIGICEL</string>
+	<key>37201</key>
+	<string>COMCEL</string>
+	<key>36251</key>
+	<string>TELCELL GSM</string>
+	<key>36269</key>
+	<string>CT GSM</string>
+	<key>362951</key>
+	<string>ANT</string>
+	<key>71021</key>
+	<string>ClaroNIC</string>
+	<key>71073</key>
+	<string>ClaroNIC</string>
+	<key>71401</key>
+	<string>Móvil</string>
+	<key>74401</key>
+	<string>VOX</string>
+	<key>74402</key>
+	<string>Claro</string>
+	<key>71606</key>
+	<string>movistar</string>
+	<key>71610</key>
+	<string>CLARO PER</string>
+	<key>356110</key>
+	<string>bmobile</string>
+	<key>358110</key>
+	<string>bmobile</string>
+	<key>30801</key>
+	<string>AMERIS</string>
+	<key>360110</key>
+	<string>bmobile</string>
+	<key>74602</key>
+	<string>Telesur</string>
+	<key>37412</key>
+	<string>bmobile</string>
+	<key>31026</key>
+	<string>T-Mobile</string>
+	<key>31031</key>
+	<string>T-Mobile</string>
+	<key>310160</key>
+	<string>T-Mobile</string>
+	<key>310200</key>
+	<string>T-Mobile</string>
+	<key>310210</key>
+	<string>T-Mobile</string>
+	<key>310220</key>
+	<string>T-Mobile</string>
+	<key>310230</key>
+	<string>T-Mobile</string>
+	<key>310240</key>
+	<string>T-Mobile</string>
+	<key>310250</key>
+	<string>T-Mobile</string>
+	<key>310260</key>
+	<string>T-Mobile</string>
+	<key>310270</key>
+	<string>T-Mobile</string>
+	<key>310660</key>
+	<string>T-Mobile</string>
+	<key>310150</key>
+	<string>AT&amp;T</string>
+	<key>310170</key>
+	<string>AT&amp;T</string>
+	<key>310380</key>
+	<string>AT&amp;T</string>
+	<key>310410</key>
+	<string>AT&amp;T</string>
+	<key>310030</key>
+	<string>Centennial</string>
+	<key>310130</key>
+	<string>Cell One</string>
+	<key>310890</key>
+	<string>UNICEL</string>
+	<key>74807</key>
+	<string>Movistar</string>
+	<key>74810</key>
+	<string>CLARO UY</string>
+	<key>73402</key>
+	<string>Digitel</string>
+	<key>73404</key>
+	<string>movistar</string>
+	<key>50501</key>
+	<string>Telstra Mobile</string>
+	<key>50502</key>
+	<string>Optus</string>
+	<key>50503</key>
+	<string>vodafone AU</string>
+	<key>50506</key>
+	<string>3</string>
+	<key>54801</key>
+	<string>Telecom</string>
+	<key>54201</key>
+	<string>VODAFONE FJ</string>
+	<key>54720</key>
+	<string>VINI</string>
+	<key>54509</key>
+	<string>TSKL</string>
+	<key>55001</key>
+	<string>FSM Telecom</string>
+	<key>54601</key>
+	<string>MOBILIS</string>
+	<key>53001</key>
+	<string>vodafone NZ</string>
+	<key>53005</key>
+	<string>Telecom NZ</string>
+	<key>55280</key>
+	<string>Palau Mobile</string>
+	<key>53701</key>
+	<string>BMobile</string>
+	<key>54927</key>
+	<string>SamoaTel</string>
+	<key>54001</key>
+	<string>BREEZE</string>
+	<key>53901</key>
+	<string>U-CALL</string>
+	<key>54101</key>
+	<string>VUT SMILE</string>
+	<key>60301</key>
+	<string>Mobilis</string>
+	<key>60302</key>
+	<string>Djezzy</string>
+	<key>63102</key>
+	<string>Unitel</string>
+	<key>61602</key>
+	<string>TLCL-BEN</string>
+	<key>61603</key>
+	<string>Areeba</string>
+	<key>61604</key>
+	<string>BBCOM</string>
+	<key>61605</key>
+	<string>GloBenin</string>
+	<key>65201</key>
+	<string>MASCOM</string>
+	<key>65202</key>
+	<string>Orange</string>
+	<key>61302</key>
+	<string>Zain</string>
+	<key>64201</key>
+	<string>Spacetel</string>
+	<key>64202</key>
+	<string>Safaris</string>
+	<key>64203</key>
+	<string>ONATEL</string>
+	<key>62401</key>
+	<string>MTN CAM</string>
+	<key>62402</key>
+	<string>Orange CAM</string>
+	<key>62501</key>
+	<string>CPV MOVEL</string>
+	<key>62302</key>
+	<string>Telecel</string>
+	<key>62304</key>
+	<string>NationLink</string>
+	<key>62201</key>
+	<string>Zain</string>
+	<key>654001</key>
+	<string>HURI</string>
+	<key>62901</key>
+	<string>Zain</string>
+	<key>62910</key>
+	<string>Libertis</string>
+	<key>63001</key>
+	<string>Vodacom CD</string>
+	<key>63005</key>
+	<string>SCELL CD</string>
+	<key>63801</key>
+	<string>EVATIS</string>
+	<key>60201</key>
+	<string>MobiNiL</string>
+	<key>60202</key>
+	<string>Vodafone EG</string>
+	<key>60203</key>
+	<string>Etisalat</string>
+	<key>63601</key>
+	<string>ETHMTN</string>
+	<key>62701</key>
+	<string>Orange GQ</string>
+	<key>62801</key>
+	<string>LIBERTIS</string>
+	<key>62802</key>
+	<string>TELECEL</string>
+	<key>62803</key>
+	<string>ZAIN</string>
+	<key>60701</key>
+	<string>Gamcel</string>
+	<key>60702</key>
+	<string>Africell</string>
+	<key>62001</key>
+	<string>Areeba</string>
+	<key>62002</key>
+	<string>Onetouch</string>
+	<key>62003</key>
+	<string>Tigo</string>
+	<key>61102</key>
+	<string>Sotelgui Guinea</string>
+	<key>61202</key>
+	<string>ACELL-CI</string>
+	<key>61203</key>
+	<string>Orange</string>
+	<key>61205</key>
+	<string>MTN CI</string>
+	<key>63902</key>
+	<string>Safaricom</string>
+	<key>63903</key>
+	<string>Zain</string>
+	<key>65101</key>
+	<string>Vodacom-LS</string>
+	<key>65102</key>
+	<string>Econet</string>
+	<key>60601</key>
+	<string>Al Madar</string>
+	<key>64601</key>
+	<string>ZAIN</string>
+	<key>64602</key>
+	<string>Orange MG</string>
+	<key>65001</key>
+	<string>TNL</string>
+	<key>65010</key>
+	<string>Zain</string>
+	<key>61001</key>
+	<string>MALITEL ML</string>
+	<key>61002</key>
+	<string>ORANGE ML</string>
+	<key>60901</key>
+	<string>MATTEL</string>
+	<key>60910</key>
+	<string>Mauritel</string>
+	<key>61701</key>
+	<string>Cellplus</string>
+	<key>61710</key>
+	<string>EMTEL</string>
+	<key>60400</key>
+	<string>MEDITEL</string>
+	<key>60401</key>
+	<string>IAM</string>
+	<key>64301</key>
+	<string>mCel</string>
+	<key>64304</key>
+	<string>VodaCom</string>
+	<key>64901</key>
+	<string>MTC</string>
+	<key>61401</key>
+	<string>Sonitel</string>
+	<key>61402</key>
+	<string>Zain</string>
+	<key>61403</key>
+	<string>Moov</string>
+	<key>62120</key>
+	<string>Zain NG</string>
+	<key>62130</key>
+	<string>MTN NG</string>
+	<key>62140</key>
+	<string>Mtel</string>
+	<key>62150</key>
+	<string>glo</string>
+	<key>62160</key>
+	<string>etisalat</string>
+	<key>64700</key>
+	<string>Orange</string>
+	<key>64702</key>
+	<string>OUTREMER</string>
+	<key>64710</key>
+	<string>SFR</string>
+	<key>63510</key>
+	<string>MTN</string>
+	<key>62601</key>
+	<string>CSTmovel</string>
+	<key>60801</key>
+	<string>ALIZE</string>
+	<key>60802</key>
+	<string>SENTEL</string>
+	<key>63301</key>
+	<string>C&amp;W SEY</string>
+	<key>63310</key>
+	<string>AIRTEL</string>
+	<key>61901</key>
+	<string>Zain</string>
+	<key>61902</key>
+	<string>MILLICOM</string>
+	<key>63701</key>
+	<string>Telesom</string>
+	<key>63704</key>
+	<string>SOMAFONE</string>
+	<key>63710</key>
+	<string>Nationlink</string>
+	<key>63730</key>
+	<string>Golis</string>
+	<key>63782</key>
+	<string>Telsom</string>
+	<key>65501</key>
+	<string>VodaCom-SA</string>
+	<key>65507</key>
+	<string>Cell C</string>
+	<key>65510</key>
+	<string>MTN-SA</string>
+	<key>63401</key>
+	<string>Zain</string>
+	<key>63402</key>
+	<string>MTN</string>
+	<key>65310</key>
+	<string>MTN</string>
+	<key>64002</key>
+	<string>MOBITEL</string>
+	<key>64003</key>
+	<string>ZANTEL</string>
+	<key>64004</key>
+	<string>VodaCom</string>
+	<key>64005</key>
+	<string>Zain</string>
+	<key>61501</key>
+	<string>TOGO CELL</string>
+	<key>61503</key>
+	<string>Telecel Togo</string>
+	<key>60502</key>
+	<string>TUNTEL</string>
+	<key>60503</key>
+	<string>TUNISIANA</string>
+	<key>64101</key>
+	<string>Zain</string>
+	<key>64110</key>
+	<string>MTN</string>
+	<key>64111</key>
+	<string>UT Mobile</string>
+	<key>64122</key>
+	<string>WaridTel</string>
+	<key>64501</key>
+	<string>Zain</string>
+	<key>64502</key>
+	<string>MTN</string>
+	<key>64801</key>
+	<string>NetOne</string>
+	<key>64803</key>
+	<string>TELECEL</string>
+	<key>64804</key>
+	<string>ECONET</string>
+	<key>61101</key>
+	<string>ORANGEGN</string>
+	<key>63203</key>
+	<string>ORANGE BS</string>
+</dict>
+</plist>

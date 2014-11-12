@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>DCT Help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>DCT</string>
+	<key>CFBundleIconFile</key>
+	<string>USBModem</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mediatek.${PRODUCT_NAME:rfc1034identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>${MACOSX_DEPLOYMENT_TARGET}</string>
+	<key>ModuleCall</key>
+	<string>YES</string>
+	<key>ModuleCallHistory</key>
+	<string>YES</string>
+	<key>ModuleDialup</key>
+	<string>YES</string>
+	<key>ModulePhonebook</key>
+	<string>YES</string>
+	<key>ModuleSMS</key>
+	<string>YES</string>
+	<key>ModuleStatistics</key>
+	<string>YES</string>
+	<key>ModuleUssd</key>
+	<string>YES</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>SaveAudioFile</key>
+	<string>YES</string>
+	<key>kCOMPortInterfaceNumberKey</key>
+	<integer>3</integer>
+	<key>kIOProductIDKey</key>
+	<integer>41995</integer>
+	<key>kIOVenderIDKey</key>
+	<integer>8193</integer>
+	<key>kModemInterfaceNumberKey</key>
+	<integer>2</integer>
+	<key>kStopImmediately</key>
+	<string>no</string>
+	<key>kVoicePortInterfaceNumberKey</key>
+	<string>4</string>
+</dict>
+</plist>

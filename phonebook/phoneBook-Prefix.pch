@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'phoneBook' target in the 'phoneBook' project
+//
+
+#ifdef __OBJC__
+#import <Cocoa/Cocoa.h>
+#endif

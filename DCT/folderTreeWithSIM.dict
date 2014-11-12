@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Children</key>
+	<array>
+		<dict>
+			<key>Children</key>
+			<array>
+				<string>Inbox</string>
+				<string>Outbox</string>
+			</array>
+			<key>Name</key>
+			<string>Data Card</string>
+		</dict>
+		<dict>
+			<key>Children</key>
+			<array>
+				<string>Outbox</string>
+				<string>Draft</string>
+				<string>Personal Folder</string>
+			</array>
+			<key>Name</key>
+			<string>PC Folder</string>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Root</string>
+</dict>
+</plist>
